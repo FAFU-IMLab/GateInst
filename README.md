@@ -1,7 +1,7 @@
 ## GateInst
-Code for paper "GateInst" Please read our paper at follow link:[paper_address(https://link.springer.com/article/10.1007/s00530-024-01438-1)].Our paper has been accepted by Multimedia Systems.
+Code for paper "GateInst" Please read our paper by following the link:[paper_address(https://link.springer.com/article/10.1007/s00530-024-01438-1)].Our paper has been accepted by Multimedia Systems.
 
-## 1.Environment
+## 1. Environment
 Please prepare an environment with Python 3.7+, Pytorch 1.7.1, mmcv-full 1.4.0 and mmdet 2.25.0
 
 ## 2.Train/Test
